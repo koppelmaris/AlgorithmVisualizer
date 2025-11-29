@@ -11,7 +11,7 @@ java ee.kruskal.algorithm.KruskalAlgorithmVisualizer
 
 ### Code overview
 
-### 1.  ```Edges```
+### 1. ```Edges```
 
 ### 2. ```UnionFind```
 
